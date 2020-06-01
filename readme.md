@@ -6,7 +6,7 @@ Details and setup for Louisville Metrosafe with op25.
 
 The basic creation of op25 is fully documented: https://www.hagensieker.com/wordpress/2018/07/17/op25-for-dummies/
 
-The actual work is assembling the frequencies, and that is the work this repo provides.
+The difficult and tedious work is assembling the frequencies, and that is the work this repo provides.
 
 1. Use the hagensieker setup method
 2. Replace the trunk.tsv file with the one in this repo
